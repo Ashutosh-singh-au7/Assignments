@@ -1,0 +1,24 @@
+body{
+    background-image: url(img.jpeg);
+}
+div{
+margin-top: 150px;
+    font-size: x-large;
+    font-family: cursive;
+}
+input{
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: royalblue;
+}
+button{
+    width: 250px;
+    border:2px solid black;
+    border-radius: 6px;
+    background-color: royalblue;
+    opacity: 2;
+}
+::placeholder{
+    color: yellow;
+}
